@@ -1,1 +1,3 @@
 # Yahtzee
+
+Yahtzee (in latvian)
