@@ -1,3 +1,3 @@
 # Yahtzee
 
-Yahtzee (in latvian)
+Yahtzee / kauliņu pokers
